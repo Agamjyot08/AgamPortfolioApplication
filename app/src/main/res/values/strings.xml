@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Agam Jyot Singh - Portfolio</string>
+
+    <string name="cv1">September 2021\nContributing skills and knowledge in the Android Development domain to make the world’s largest multilingual repository.\n "</string>
+    <string name="job_name">Android Developer</string>
+    <string name="lcv2">Aug 2021 - Sept 2021\nMy role involved working on creating android applications with several defined functionalities.\nProject created: Mobile Banking Application:\nCoded in Kotlin, implemented money transfer functionalities, by storing data in SQLite database.</string>
+    <string name="name">Agam Jyot\nSingh</string>
+    <string name="current_job_post">Current Post</string>
+    <string name="degree">Bachelor in Technology</string>
+    <string name="cv3">August 2021 - Present</string>
+    <string name="summary">I am an individual who strives for knowledge and aims to be an asset to self-growth and the organization by leveraging my technical as well as interpersonal skills to solve challenging problems.</string>
+    <string name="degree_detail">Computer Science and Engineering\nAug 2019- May 2023\nIndraprastha University, New Delhi\n Current CGPA- 8.5</string>
+    <string name="portfolio_intro">Here, I have a list of projects, I have created so far. These are all Android Applications, in Kotlin or Java. More information about each one of them can be found by tapping on them!</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
